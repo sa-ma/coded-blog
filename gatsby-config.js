@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://coded.blog`,
     description: `A developer's blog catering to web development topics`,
     hero: {
-      heading: `Welcome to Coded where I (Samaila Bala) explain web development from my own perspective.`,
+      heading: `Welcome to Coded where I (Samaila Bala) :) get to share my knowledge on web developemnt topics.`,
       maxWidth: 652,
     },
     social: [
